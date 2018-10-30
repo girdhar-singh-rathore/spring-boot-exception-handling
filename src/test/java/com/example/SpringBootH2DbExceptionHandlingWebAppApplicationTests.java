@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringBootH2DbWebAppApplicationTests {
+public class SpringBootH2DbExceptionHandlingWebAppApplicationTests {
 
 	@Test
 	public void contextLoads() {
